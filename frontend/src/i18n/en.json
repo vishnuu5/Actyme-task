@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to Actyme",
+  "start": "Start Your First Task",
+  "pay": "Pay Entry Fee",
+  "switchLang": "Switch to French",
+  "paymentError": "Something went wrong during payment. Please try again."
+}
